@@ -1,2 +1,2 @@
-# crybtozombies
-  with cryptozombies.io
+# cryptozombies
+  lessons from cryptozombies.io
