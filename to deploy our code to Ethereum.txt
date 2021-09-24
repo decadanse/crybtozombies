@@ -1,0 +1,3 @@
+truffle-hdwallet-provider
+
+In this lesson, we will be using Infura to deploy our code to Ethereum. This way, we can run the application without needing to set up our own Ethereum node or wallet. However, to keep things secure, Infura does not manage the private keys, which means it can't sign transactions on our behalf. Since deploying a smart contract requires Truffle to sign transactions, we are going to need a tool called truffle-hdwallet-provider. Its only purpose is to handle the transaction signing.
