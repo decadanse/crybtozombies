@@ -1,1 +1,2 @@
-# crybtozombies
+# cryptozombies
+  lessons from cryptozombies.io
